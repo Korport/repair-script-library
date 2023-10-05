@@ -1,0 +1,7 @@
+[
+  {
+    "id" : "win-hello-world",
+		"path" : "src/windows/win-hello-world.ps1",
+		"description" : "Hello world test script"
+  }
+]
